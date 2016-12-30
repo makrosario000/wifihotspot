@@ -9,10 +9,10 @@ e.g. your laptop is connected to your router via LAN cable and you want to use t
 
 # How to use
 
-1.1 right click "SETUP" and click "run as administrator" (if windows security window opens just click "run anyway")
-1.2 a terminal window will open and ask you for the wifi-name(SSID) and password
-2.1 right click "START" and click "run as administrator" (if windows security window opens just click "run anyway") your devices should now be able to see the WIFI hotspot using the wifiname you have setup
-3. right click "START" and click "run as administrator" (if windows security window opens just click "run anyway") if you want to end your hotspot
+1.1 right click "SETUP" and click "run as administrator" (if windows security window opens just click "run anyway").
+1.2 a terminal window will open and ask you for the wifi-name(SSID) and password.
+2.1 right click "START" and click "run as administrator" (if windows security window opens just click "run anyway") your devices should now be able to see the WIFI hotspot using the wifiname you have setup.
+3. right click "START" and click "run as administrator" (if windows security window opens just click "run anyway") if you want to end your hotspot.
 
 # Notes
 
